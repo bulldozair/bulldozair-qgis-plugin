@@ -1,0 +1,31 @@
+# This file contains metadata for your plugin. Since
+# version 2.0 of QGIS this is the proper way to supply
+# information about a plugin. The old method of
+# embedding metadata in __init__.py
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.
+
+# Mandatory items:
+[general]
+name=bulldogis
+qgisMinimumVersion=3.6
+description=bulldogis is a plugin for gis data management of bulldozair project
+about=test
+version=0.1
+author=maximilien jaffres
+email=contact@hydra-software.net
+repository=https://github.com/bulldozair/bulldozair-qgis-plugin.git
+hasProcessingProvider=yes
+# End of mandatory metadata
+
+# Optional items:
+
+# Tags are comma separated with spaces allowed
+tags=building,site monitoring
+experimental=False
+deprecated=False
+homepage=https://www.bulldozair.com/
+icon=bulldo_icon.png
+
+
