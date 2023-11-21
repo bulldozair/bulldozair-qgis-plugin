@@ -6,3 +6,10 @@ Des évolutions pourront permettre de faire évoluer les formats des données ch
 
 l'outil se base essentiellement sur l'export au format geopackage des informations.
 
+## Installation 
+
+le plugin se copie colle à cet endroit dans les plugins de QGIS : 
+C:\Users\prenom.nom\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins
+
+ou via l'installation de plugin de Qgis, extension => installer via un .zip et charger le .zip du plugin
+
